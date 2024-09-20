@@ -16,7 +16,7 @@ TaskMaster is a powerful and intuitive task management web application built wit
 
 ## Demo
 
-Check out the live demo: [TaskMaster Demo](https://your-demo-url-here.com)
+Check out the live demo: [TaskMaster Demo]([https://your-demo-url-here.com](https://todolist-taskmaster-hgoull8cs-yuvateja2003s-projects.vercel.app/))
 
 ## Technologies Used
 
@@ -71,7 +71,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-PADDALA YUVATEJA - [@your_twitter](https://x.com/PaddalaYuvateja) - paddalayuvateja@gmail.com
+PADDALA YUVATEJA - 6305326306 - paddalayuvateja@gmail.com
 
 ## Acknowledgements
 
