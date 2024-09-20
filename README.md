@@ -16,7 +16,7 @@ TaskMaster is a powerful and intuitive task management web application built wit
 
 ## Demo
 
-Check out the live demo: [TaskMaster Demo]([https://your-demo-url-here.com](https://todolist-taskmaster-hgoull8cs-yuvateja2003s-projects.vercel.app/))
+Check out the live demo: [TaskMaster Demo](https://todolist-taskmaster-hgoull8cs-yuvateja2003s-projects.vercel.app/)
 
 ## Technologies Used
 
